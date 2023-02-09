@@ -2,7 +2,7 @@ package com.upskill.java_2;
 
 public class IfElseStatement {
 		
-public static int age = 25;
+public static int age = 13;
 
 public static void main(String[] args) {
 			conditionalStatement();

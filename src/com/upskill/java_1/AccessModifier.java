@@ -16,7 +16,7 @@ public class AccessModifier {
 	public static void main(String[] args) {
 		
 		
-	System.out.print("New York");				    // when we will print any string, under System.out.println
+	System.out.print("New Yorkk");				    // when we will print any string, under System.out.println
 		                                            //   then the string's word or sentence should must be under ("");
 
 	}
